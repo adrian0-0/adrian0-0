@@ -1,7 +1,7 @@
-<h1 align="center">Eae como vai 😉, meu nome é Adrian Vinícius</h1>
-<h3 align="center">Eu faço faculdade de Engenharia de Software e estou estudando com mais foco tecnologias envolvendo o desenvolvimento do front das aplicações(React, HTML, CSS, JS)</h3>
+<h1>Eae como vai 😉, meu nome é Adrian Vinícius</h1>
+<p>Eu faço faculdade de <strong>Engenharia de Software</strong> e estou estudando com mais foco tecnologias envolvendo o desenvolvimento do front das aplicações(React, HTML, CSS, JS)</p>
 
-- Conversor de PDF para Imagem com um export de HTML, que virá com as imagens indexadas [PDF to IMG](https://github.com/adrian0-0/PDF-to-IMG-Converter)
+- Conversor de PDF para Imagem com um export de HTML, que realiza a indexação das imagens [PDF to IMG](https://github.com/adrian0-0/PDF-to-IMG-Converter)
 
 - WIP - Aplicação voltada a gestão das UPS com login seguindo o ID do socorrista [DMED](https://github.com/adrian0-0/DMED)
 
