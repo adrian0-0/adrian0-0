@@ -1,3 +1,4 @@
+<p align="center"><img src = "https://github.com/adrian0-0/profile-assets/blob/main/gifs/dino.gif"></img></p>
 <h1>Eae como vai 😉, meu nome é Adrian Vinícius</h1>
 <p>Eu faço faculdade de <strong>Engenharia de Software</strong> e estou estudando com mais foco tecnologias envolvendo o desenvolvimento do front das aplicações(React, HTML, CSS, JS)</p>
 
